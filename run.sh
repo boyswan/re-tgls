@@ -1,4 +1,4 @@
 #!/bin/bash
 
-dune build ./src/main.re
-dune exec ./src/main.exe
+dune build ./bin/main.ml
+dune exec ./bin/main.exe

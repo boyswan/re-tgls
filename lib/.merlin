@@ -4,7 +4,7 @@ B /Users/jack/.opam/4.02.3/lib/integers
 B /Users/jack/.opam/4.02.3/lib/ocaml
 B /Users/jack/.opam/4.02.3/lib/ocaml/threads
 B /Users/jack/.opam/4.02.3/lib/tgls
-B ../_build/default/src/.main.eobjs
+B ../_build/default/lib/.lib.objs
 S /Users/jack/.opam/4.02.3/lib/bytes
 S /Users/jack/.opam/4.02.3/lib/ctypes
 S /Users/jack/.opam/4.02.3/lib/integers
@@ -12,4 +12,4 @@ S /Users/jack/.opam/4.02.3/lib/ocaml
 S /Users/jack/.opam/4.02.3/lib/ocaml/threads
 S /Users/jack/.opam/4.02.3/lib/tgls
 S .
-FLG -w @a-4-29-40-41-42-44-45-48-58-59-60-40 -strict-sequence -strict-formats -short-paths -keep-locs
+FLG -open Lib -w @a-4-29-40-41-42-44-45-48-58-59-60-40 -strict-sequence -strict-formats -short-paths -keep-locs

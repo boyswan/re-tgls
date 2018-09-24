@@ -1,0 +1,3 @@
+(library
+  (libraries tgls.tgles2)
+  (name lib ))

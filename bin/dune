@@ -1,3 +1,3 @@
 (executable
-  (libraries tgls.tgles2)
+  (libraries lib)
   (name main))
